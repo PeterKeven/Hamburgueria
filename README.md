@@ -7,5 +7,7 @@ O curso que ensina a criar esse site está no youtube
 
 Esse site foi feito com:
 
-![image](C:/Users/PeterKeven/Downloads/html5.png)
-
+HTML5
+CSS3
+JavaScript
+Tailwind CSS
