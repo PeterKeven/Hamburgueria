@@ -8,6 +8,9 @@ O curso que ensina a criar esse site está no youtube
 Esse site foi feito com:
 
 HTML5
+
 CSS3
+
 JavaScript
+
 Tailwind CSS
