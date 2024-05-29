@@ -7,5 +7,5 @@ O curso que ensina a criar esse site está no youtube
 
 Esse site foi feito com:
 
-![image](https://github.com/PeterKeven/Hamburgueria/assets/99272396/2acf9cf3-5fbe-485d-aa70-e47c6ddf6e0f)
+![image](file:///C:/Users/PeterKeven/Downloads/html5.png)
 
