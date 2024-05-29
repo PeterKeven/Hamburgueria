@@ -7,5 +7,5 @@ O curso que ensina a criar esse site está no youtube
 
 Esse site foi feito com:
 
-![image](file:///C:/Users/PeterKeven/Downloads/html5.png)
+![image](C:/Users/PeterKeven/Downloads/html5.png)
 
